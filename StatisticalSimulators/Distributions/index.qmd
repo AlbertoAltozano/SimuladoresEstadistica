@@ -2,7 +2,7 @@
 title: "Distributions"
 description: "Aplicación de distribuciones estadísticas"
 date: 2025-11-02
-categories: ["Estadística descriptiva"]
+categories: ["Distribuciones"]
 image: template.png
 ---
 
