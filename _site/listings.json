@@ -33,13 +33,14 @@
   },
   {
     "listing": "/categories/distribuciones.html",
-    "items": []
+    "items": [
+      "/StatisticalSimulators/Distributions/index.html"
+    ]
   },
   {
     "listing": "/categories/estadistica-descriptiva.html",
     "items": [
-      "/StatisticalSimulators/MatrizGraficosParam/index.html",
-      "/StatisticalSimulators/Distributions/index.html"
+      "/StatisticalSimulators/MatrizGraficosParam/index.html"
     ]
   },
   {
